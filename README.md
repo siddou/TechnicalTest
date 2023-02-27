@@ -1,4 +1,6 @@
-#
+# "deal super smart avec une boutique de vente de DVDs"
+
+Tested with Python 3.11.2
 
 ## Start using the project
 
