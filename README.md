@@ -1,6 +1,10 @@
-# "deal super smart avec une boutique de vente de DVDs"
+# Deal super smart avec une boutique de vente de DVDs
 
-Tested with Python 3.11.2
+- The code is written in Python 3 (Tested with Python 3.11.2)
+- It uses regex to parse the file 'Back-to-the-Future.txt' to calculate the total price of a DVD order.
+- It takes into account discounts on Back to the Future trilogy DVDs (10% for 2 different titles and 20% for 3 different).
+- Replacement variables have been used throughout the script so that changes can be done easily.
+- The function "test_calculate_total" verifies the expected result of 5 example cases.
 
 ## Start using the project
 
